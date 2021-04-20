@@ -11,7 +11,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="<iframe src="https://open.spotify.com/embed/track/6rAGFY9D3ah6Lb7fUgbNNH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>" alt="Hasib Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DXdxcBWuJkbcy)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hasib Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ### Connect with me:
 [<img align="left" alt="Hasib | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
