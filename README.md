@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and Represent MySelf as a full Stack Web Developer
 - ⚡ Fun fact: I love to listen to Music / Play drums
 
-Have a visit to my <a href= "https://hasibulalamrahi.github.io/">Portfolio Website  </a> .If you want you can view my my <a href = "https://drive.google.com/file/d/1UsixphcA7y4ls7qmgoyC_LqWyLbk1igy/view?usp=sharing">Resume</a> here. You can also Email me. Have a nice tour to my profiles.
+Have a visit to my <a href= "https://hasibulalamrahi.github.io/">Portfolio Website  </a> .If you want you can view  my <a href = "https://drive.google.com/file/d/1UsixphcA7y4ls7qmgoyC_LqWyLbk1igy/view?usp=sharing">Resume</a> here. You can also Email me. Have a nice tour to my profiles.
 
 ### Spotify Playing 🎧
 
