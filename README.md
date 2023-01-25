@@ -1,11 +1,11 @@
 ### Hi there, I'm HASIBUL ALAM RAHI  👋
-## I'm a Student, Developer, and an Instructor too!!
+## I'm a Full Stack Software Enginner
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=hasibulalamrahi&show_icons=true&theme=algolia"/>
 
-- 🔭 I am a Third year Student at RUET
-- 🌱 I’m currently learning MERN Stack ( MongoDB, Express, React, Node)
+- 🔭 Software Enginner Graduated from RUET
+- 🌱 I’m currently learning AWS Serverless Architecture 
 - 👯 I’m looking to collaborate with other Delevopers for a projects
-- 🥅 2021 Goals: Contribute more to Open Source projects and Represent MySelf as a full Stack Web Developer
+- 🥅 2023 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to listen to Music / Play drums
 
 Have a visit to my <a href= "https://hasibulalamrahi.github.io/">Portfolio Website  </a> .If you want you can view  my <a href = "https://drive.google.com/file/d/1UsixphcA7y4ls7qmgoyC_LqWyLbk1igy/view?usp=sharing">Resume</a> here. You can also Email me. Have a nice tour to my profiles.
